@@ -23,7 +23,7 @@ function getUsers(){
                 $("#username").append("<div>" + value.username +
                 "</div>")
             })
-            $("#status").html("Server: User OK");
+            $("#status").html("Server: Klar til brug");
         },
         error:function (data){
             console.log("ERROR i svar fra server");
@@ -48,7 +48,7 @@ function createUsers(user){
         success:function (data){
             $("#users").prepend("<div>" + data.users.pop().username +
                 "</div>")
-            $("#status").html("Server: User OK");
+            $("#status").html("Server: Klar til brug");
         },
         error:function (data){
             console.log("ERROR i svar fra server");

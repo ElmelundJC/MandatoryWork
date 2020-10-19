@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MandatoryWork.iml" filepath="$PROJECT_DIR$/.idea/MandatoryWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mandatory1/mandatory.iml" filepath="$PROJECT_DIR$/Mandatory1/mandatory.iml" />
+    </modules>
+  </component>
+</project>
