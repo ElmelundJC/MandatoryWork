@@ -35,7 +35,6 @@ function getUsers(){
 
 function createUsers(user){
     console.log("createUser er kaldt");
-    //AJAX request
     var createUserObject = {};
     createUserObject["username"] = user;
     var count = $("#users > div").length
